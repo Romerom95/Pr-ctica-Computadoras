@@ -1,1 +1,1 @@
-# Pr-ctica-Computadoras
+# Practica-Computadoras
